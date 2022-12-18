@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @antoniokchoi
+- 👀 I’m interested in solving problems! 
+- 🌱 I’m currently learning ASP.NET stack with Microsoft Software and Systems Academy!
+- 📫 How to reach me antonio.k.choi@gmail.com or at linkedin.com/in/antonio-choi
